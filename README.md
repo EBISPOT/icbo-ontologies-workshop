@@ -9,11 +9,13 @@ The tools this workshop encompasses are:
 - Ontology Lookup Service (OLS) which provides searching and browsing for ontologies
 - OxO, our new ontology mapping service
 
-
+Questions:
 
 - do we want to include presentations about EFO/GO and curation processes? Ancestro?
 - RDF platform may be out of scope
 - BioSolr for indexing? Neo4J for clustering?
 
+
+To add:
 - presentations?
 - hands on material?
